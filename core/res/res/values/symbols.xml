@@ -3113,4 +3113,8 @@
 
   <!-- whether to show dual bar -->
   <java-symbol type="bool" name="config_dual_bar" />
+
+  <!-- Device keyhandler -->
+  <java-symbol type="string" name="config_deviceKeyHandlerLib" />
+  <java-symbol type="string" name="config_deviceKeyHandlerClass" />
 </resources>
