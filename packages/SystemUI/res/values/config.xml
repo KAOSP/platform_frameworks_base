@@ -432,4 +432,8 @@
         <item>60</item>
         <item>120</item>
     </integer-array>
+
+    <!-- Allow Opa (Pixel navbar) layout -->
+    <bool name="config_allowOpaLayout">true</bool>
+
 </resources>
